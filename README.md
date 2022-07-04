@@ -4,4 +4,4 @@ Available for preview [here](https://XiaomiSimulator.github.io).
 
 ## Status
 
-Gets to an unfinished lockscreen.
+Has black background, that's kind of it...
