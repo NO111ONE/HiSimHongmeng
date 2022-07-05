@@ -1,6 +1,6 @@
 # Xiaomi Device Simulator
 
-Available for preview [here](https://XiaomiSimulator.github.io).
+Available for preview [here](https://no111one.github.io/HiSimHongmeng).
 
 ## Status
 
